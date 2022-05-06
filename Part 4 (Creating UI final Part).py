@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 12 14:45:53 2020
 
-@author: Sona Gaur
+@author: Mohit Gaur
 """
 """ Importing liberarys"""
 import pandas as pd
