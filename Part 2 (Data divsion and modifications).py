@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 12 12:52:18 2020
 
-@author: Sona Gaur
+@author: Mohit Gaur
 """
 
 """ Importing liberarys"""
